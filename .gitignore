@@ -1,0 +1,19 @@
+# Node.js modules
+node_modules/
+
+# Environment files
+.env
+
+# Logs
+*.log
+
+# Debug and IDE files
+.idea/
+.vscode/
+*.swp
+
+# Operating system files
+.DS_Store
+
+# npm package-lock file (optional, but usually safe to ignore in some cases)
+package-lock.json
